@@ -201,7 +201,7 @@ var diningRoom = {
 // Characters Collection
 var charactersArray = [mrGreen, drOrchid, profPlum, missScarlet, mrsPeacock, mrMustard];
 // Rooms' Collection
-var roomsArray = [diningRoom, conservatory, kitchen, study, library, billiard, lounge, ballroom, hall, spa, livingRoom, observatory, theater,, guestHouse, patio];
+var roomsArray = [diningRoom, conservatory, kitchen, study, library, billiard, lounge, ballroom, hall, spa, livingRoom, observatory, theater, guestHouse, patio];
 // Weapons Collection
 var weaponsArray = [rope, knife, candlestick, dumbell, poison, axe, bat, trophy, pistol];
 function randomSelector (array){
